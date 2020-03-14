@@ -3,7 +3,7 @@ layout: blog
 title: 'Top 5 EDM Festivals '
 lang: en
 date: '2020-03-05T21:40:35-05:00'
-thumbnail: /images/uploads/canoeingthe-grand.jpg
+thumbnail: /images/uploads/tomorrowland-2017.jpg
 terms: >-
   Top 5, EDM, Music, Festival, Electronic Dance Music, Movement, Electric Daisy,
   Sunburn, Stereosonic, Tommorowland
